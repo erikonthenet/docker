@@ -1,0 +1,18 @@
+ubuntu:
+  image: ubuntu
+busybox:
+  image: busybox
+openjdk:
+  image: openjdk
+wildfly:
+  image: jboss/wildfly
+mysql:
+  image: mysql
+javaee7-hol:
+  image: arungupta/javaee7-hol
+swarm:
+  image: swarm
+wildfly-couchbase-javaee7:
+  image: arungupta/wildfly-couchbase-javaee7
+couchbase:
+  image: arungupta/couchbase
